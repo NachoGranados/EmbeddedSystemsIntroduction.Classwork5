@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/calculadora.dir/calculadora.c.o -o calculadora  -Wl,-rpath,/home/nachogranados/cmake/libbiblioteca/build/lib: lib/libbiblioteca.so 

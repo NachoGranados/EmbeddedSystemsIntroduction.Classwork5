@@ -1,0 +1,3 @@
+/home/nachogranados/cmake/libbiblioteca/build/usr/bin/calculadora
+/home/nachogranados/cmake/libbiblioteca/build/usr/lib/libbiblioteca.so
+/home/nachogranados/cmake/libbiblioteca/build/usr/include/biblioteca.h
