@@ -1,0 +1,7 @@
+/home/nachogranados/cmake/helloworld/build/CMakeFiles/hello.dir
+/home/nachogranados/cmake/helloworld/build/CMakeFiles/edit_cache.dir
+/home/nachogranados/cmake/helloworld/build/CMakeFiles/rebuild_cache.dir
+/home/nachogranados/cmake/helloworld/build/CMakeFiles/list_install_components.dir
+/home/nachogranados/cmake/helloworld/build/CMakeFiles/install.dir
+/home/nachogranados/cmake/helloworld/build/CMakeFiles/install/local.dir
+/home/nachogranados/cmake/helloworld/build/CMakeFiles/install/strip.dir
