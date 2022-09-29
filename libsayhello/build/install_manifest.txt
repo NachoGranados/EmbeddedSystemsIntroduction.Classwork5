@@ -1,0 +1,3 @@
+/home/nachogranados/cmake/libsayhello/build/usr/bin/hello
+/home/nachogranados/cmake/libsayhello/build/usr/lib/libsayhello.so
+/home/nachogranados/cmake/libsayhello/build/usr/include/say.h
